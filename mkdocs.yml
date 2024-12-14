@@ -7,3 +7,12 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - def_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav: 
+  - index.md
+  - Reviews.md
+  - Production Process.md
+  - Health Benefits.md
